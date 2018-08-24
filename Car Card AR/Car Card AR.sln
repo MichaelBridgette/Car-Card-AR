@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Card AR", "Car Card AR.csproj", "{2FF7B5F4-4055-6C6B-823D-6CB0C0BF6B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Card AR.Editor", "Car Card AR.Editor.csproj", "{58AE2B4A-2730-62D8-E286-5E937BBDB581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF7B5F4-4055-6C6B-823D-6CB0C0BF6B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF7B5F4-4055-6C6B-823D-6CB0C0BF6B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF7B5F4-4055-6C6B-823D-6CB0C0BF6B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF7B5F4-4055-6C6B-823D-6CB0C0BF6B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AE2B4A-2730-62D8-E286-5E937BBDB581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AE2B4A-2730-62D8-E286-5E937BBDB581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AE2B4A-2730-62D8-E286-5E937BBDB581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AE2B4A-2730-62D8-E286-5E937BBDB581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
